@@ -1,2 +1,1 @@
-# SweetViz.io
-Exploratory data analysis using "SweetViz" python automated library for Framingham dataset
+[FinalReport.html.pdf](https://github.com/rezatorfi/SweetViz.io/files/8934606/FinalReport.html.pdf)
